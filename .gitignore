@@ -1,0 +1,11 @@
+*.dd
+*.raw
+*.E01
+*.7z*
+*.vmdk
+exports/
+*.pst
+*.ost
+*.lnk
+*.zip
+*.exe
